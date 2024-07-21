@@ -1,0 +1,16 @@
+.our_team{
+    text-align: center;
+}
+p{
+    color :darkgray;
+}
+.team{
+    text-align: center;
+}
+.team1{
+   float:left;
+   width:33.33333%;
+}
+.clearfix{
+   clear:left; 
+}
